@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T16:51:00.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="c-9JxzWae9w3GhSlpwKu" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T14:54:25.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ZFnT4Fgwp0yjth3dWyuL" version="13.7.5" type="github">
   <diagram id="sYP0i_cQxg5bneNUWzJt" name="Page-1">
-    <mxGraphModel dx="1673" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,33 @@
         </mxCell>
         <mxCell id="5G4gTjTOer8aTmhEWOPv-21" value="19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;opacity=60;fontSize=22;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="600.63" y="600" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDBiTEiYfADoYEPbW1w-6" value="" style="triangle;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="360" y="860" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDBiTEiYfADoYEPbW1w-7" value="Screenshot of Visual Guide UI in Apps" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;opacity=70;fontSize=18;spacing=7;spacingRight=19;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="830" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDBiTEiYfADoYEPbW1w-9" value="Textual" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=18;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="130" y="880" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDBiTEiYfADoYEPbW1w-10" value="UI Position" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=18;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="140" y="780" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDBiTEiYfADoYEPbW1w-11" value="UI Type" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=18;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1000" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDBiTEiYfADoYEPbW1w-14" value="" style="endArrow=classic;html=1;fontSize=18;exitX=0.953;exitY=0.553;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FlDBiTEiYfADoYEPbW1w-7" target="FlDBiTEiYfADoYEPbW1w-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="880" as="sourcePoint" />
+            <mxPoint x="560" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDBiTEiYfADoYEPbW1w-15" value="" style="endArrow=classic;html=1;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FlDBiTEiYfADoYEPbW1w-7" target="FlDBiTEiYfADoYEPbW1w-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70.59999999999991" y="896.2099999999998" as="sourcePoint" />
+            <mxPoint x="149.99999999999955" y="850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
